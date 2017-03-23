@@ -1,0 +1,19 @@
+.section{
+  min-width: 100px;
+  min-height: 100vh;
+  background-color: #5C6EFF;
+}
+.section1{
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #EF5CFF;
+}
+.section2{
+  min-width: 100px;
+  min-height: 100px;
+  background-color: #FF7C5C;
+}
+.transitionGone{
+  transition-duration: 3s;
+
+}
